@@ -50,4 +50,5 @@ Optionally, display a graph of their lap times.
 <h2>Files</h2>
 <code>timing_board.py</code>: Main program file.<br><br>
 <code>drivers.txt</code>: Sample driver details file.<br><br>
-<code>lap_times_1.txt, lap_times_2.txt, lap_times_3.txt</code>: Sample lap time files.
+<code>lap_times_1.txt, lap_times_2.txt, lap_times_3.txt</code>: Sample lap time files.<br><br>
+<code>dewsbury_results.csv, dewsbury_2_results.csv, york.csv</code>: Stores processed race results in CSV format.
