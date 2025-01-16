@@ -1,0 +1,20 @@
+VER, Red Bull Racing, 1, Max Verstappen
+HAM, Mercedes, 44, Lewis Hamilton
+RIC, AlphaTauri, 3, Daniel Ricciardo
+NOR, McLaren, 4, Lando Norris
+LEC, Ferrari, 16, Charles Leclerc
+SAI, Ferrari, 55, Carlos Sainz
+PER, Red Bull Racing, 11, Sergio Pérez
+ALO, Aston Martin, 14, Fernando Alonso
+OCO, Alpine, 31, Esteban Ocon
+GAS, Alpine, 10, Pierre Gasly
+BOT, Alfa Romeo, 77, Valtteri Bottas
+TSU, AlphaTauri, 22, Yuki Tsunoda
+ALB, Williams, 23, Alex Albon
+HUL, Haas, 27, Nico Hülkenberg
+MAG, Haas, 20, Kevin Magnussen
+PIA, McLaren, 81, Oscar Piastri
+STR, Aston Martin, 18, Lance Stroll
+SAR, Williams, 2, Logan Sargeant
+ZHO, Alfa Romeo, 24, Zhou Guanyu
+RUS, Mercedes, 63, George Russel
