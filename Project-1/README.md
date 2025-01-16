@@ -44,7 +44,7 @@ The name of the files are processed as <i>command-line arguements</i>
 
 <h3>Viewing Driver Statistics</h3>
 After processing a race file, you can input a driver’s code to view their detailed statistics.
-
+<br><br>
 Optionally, display a graph of their lap times.
 
 <h2>Files</h2>
